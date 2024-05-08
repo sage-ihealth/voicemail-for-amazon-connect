@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "AmazonConnectInstanceId",
+    "ParameterValue": "185fa6d0-dd03-4066-b713-ac39542f3bc5"
+  },
+  {
+    "ParameterKey": "AdminEmail",
+    "ParameterValue": "sage.gu@ihealthlabs.com"
+  },
+  {
+    "ParameterKey": "ManagerEmail",
+    "ParameterValue": "merphyseptember@gmail.com"
+  },
+  {
+    "ParameterKey": "UserPoolDomainPrefix",
+    "ParameterValue": "unifiedcare-dev-vm1"
+  }
+]
