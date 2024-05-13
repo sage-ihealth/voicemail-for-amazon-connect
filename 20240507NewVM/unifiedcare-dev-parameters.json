@@ -10,9 +10,5 @@
   {
     "ParameterKey": "ManagerEmail",
     "ParameterValue": "merphyseptember@gmail.com"
-  },
-  {
-    "ParameterKey": "UserPoolDomainPrefix",
-    "ParameterValue": "unifiedcare-dev-vm1"
   }
 ]

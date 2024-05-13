@@ -26,11 +26,11 @@
       <artifactId>guava</artifactId>
       <version>32.0.1-jre</version>
     </dependency>
-    <dependency>
+    <!-- <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-java</artifactId>
       <version>3.21.7</version>
-    </dependency>
+    </dependency> -->
     <dependency>
       <groupId>com.amazon.ion</groupId>
       <artifactId>ion-java</artifactId>
@@ -111,6 +111,10 @@
 	        <groupId>com.google.guava</groupId>
           <artifactId>guava</artifactId>
         </exclusion>
+        <!-- <exclusion>
+	        <groupId>com.google.protobuf</groupId>
+          <artifactId>protobuf-java</artifactId>
+        </exclusion> -->
       </exclusions>
     </dependency>
     <dependency>
